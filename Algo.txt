@@ -1,0 +1,8 @@
+         ALGORITHME CALCUFACTORIELALGO
+    variable 
+donneés(nom:n! type:entier)
+     DEBUT 
+   initialisation 
+( calcul factoriel <---Affectation(n-1)!
+    Afficher (¨calcul factoriel est¨:factoriel)
+    FIN
